@@ -1,3 +1,9 @@
+node_modules/
+config.dev.json
+
+*.pem
+*.ppk
+Pipfile.lock
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
